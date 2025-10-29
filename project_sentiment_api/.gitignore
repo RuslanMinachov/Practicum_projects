@@ -13,3 +13,8 @@ __pycache__/
 # IDE
 .idea/
 .vscode/
+
+# Виртуальное окружение
+venv/
+env/
+.venv/
